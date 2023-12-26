@@ -1,7 +1,7 @@
 # Concrete Strength Prediction 🏗️
 
 #### Overview:
-Predicting the compressive strength of concrete is crucial for ensuring the durability and stability of structures. In this project, we use various machine learning algorithms to predict concrete compressive strength based on different input features.
+Predicting the compressive strength of concrete is crucial for ensuring the durability and stability of structures. In this project, I use various machine learning algorithms to predict concrete compressive strength based on different input features.
 
 #### Dataset:
 The dataset consists of 1030 samples with 9 features:
